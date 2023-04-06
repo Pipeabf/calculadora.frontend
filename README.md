@@ -1,6 +1,6 @@
 # calculadora.frontend
 1-buenos dias estimado, la calculadora funciona de la siguente forma
-2-usted preciona un boton numerico / cantidad que guste en la pantalla
+2-usted presiona un boton numerico / cantidad que guste en la pantalla
 3-una ves determinada la primera cantidad, seleccione la operacion numerica que desea realizar
 3-luego de haber ingresado tanto como la primera cantidad y la operacion matematica a realizar ingrese la 2 cantidad que guste
 4 por ultimo, dele al boton de "=" para que le de el resusltado
@@ -21,3 +21,7 @@ luego esta la funcion para borrar y otra funcion que nos dara el resultado
 y para el tema de borrar basicamente apretamos el boton borrar jquery lo detecta y limpia el resultado
 
 en la funcion donde topa la id igual, ocupamos un switch para determinar que operacion opto el usuario, despues de detectar se hace la logica
+
+
+
+cualquier palabra
